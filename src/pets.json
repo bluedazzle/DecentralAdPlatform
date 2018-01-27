@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "title": "蜂蜜很好，快来买",
+    "picture": "images/ad1.jpg",
+    "bid": 1,
+    "budget": 10,
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "title": "欢迎加入今日头条",
+    "picture": "images/ad2.jpg",
+    "bid": 2,
+    "budget": 10,
+    "location": "Tooleville, West Virginia"
+  }
+]
