@@ -32,16 +32,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bs-config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs-config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="box-img-sm.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/box-img-sm.png">
           <provider selected="true" editor-type-id="images">
@@ -69,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="client.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="client.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/client.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
@@ -77,6 +67,21 @@
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -146,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/dsp2.html" />
         <option value="$PROJECT_DIR$/src/dsp1.html" />
         <option value="$PROJECT_DIR$/src/client.html" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -693,6 +699,19 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
