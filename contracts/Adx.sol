@@ -39,7 +39,7 @@ contract Adx {
 
 
   // 计费（分钱）
-  function chargeingAd(uint adId) public {
+  function chargeingAd(uint adId) public payable {
       uint bid = bids[adId];
       budgets[msg.sender] = budgets[msg.sender] - bid;
       msg.sender.transfer(bid / 2);
